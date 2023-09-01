@@ -1,0 +1,19 @@
+package com.javaex.ex02;
+
+import java.sql.*;
+
+public class AuthorDao {
+	
+	public AuthorDao(){
+		
+	}
+	
+	
+	
+	public void 
+	
+	
+	
+	
+
+}

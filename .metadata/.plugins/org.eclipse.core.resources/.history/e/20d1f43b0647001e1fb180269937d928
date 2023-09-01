@@ -1,0 +1,46 @@
+package com.javaex.ex01;
+
+public class AuthorVo {
+	
+	private int authorId;
+	private int authorName;
+	private String authorDesc;
+	
+	public AuthorVo() {
+		// TODO Auto-generated constructor stub
+		
+	}
+	
+	
+	public AuthorVo(int authorId, int authorName, String authorDesc) {
+		super();
+		this.authorId = authorId;
+		this.authorName = authorName;
+		this.authorDesc = authorDesc;
+	}
+
+	public int getAuthorId() {
+		return authorId;
+	}
+
+	public void setAuthorId(int authorId) {
+		this.authorId = authorId;
+	}
+
+	public int getAuthorName() {
+		return authorName;
+	}
+
+	public void setAuthorName(int authorName) {
+		this.authorName = authorName;
+	}
+
+	public String getAuthorDesc() {
+		return authorDesc;
+	}
+
+	public void setAuthorDesc(String authorDesc) {
+		this.authorDesc = authorDesc;
+	}
+
+}

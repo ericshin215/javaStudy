@@ -1,0 +1,5 @@
+package com.javaex.ex02.author;
+
+public class AuthorVo {
+
+}

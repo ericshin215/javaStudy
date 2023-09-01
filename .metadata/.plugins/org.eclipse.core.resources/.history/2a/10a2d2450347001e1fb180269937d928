@@ -1,0 +1,14 @@
+package com.javaex.ex01;
+
+public class AuthorVo {
+	
+	private int authorId;
+	private int authorName;
+	private String authorDesc;
+	
+	public AuthorVo() {
+		// TODO Auto-generated constructor stub
+		
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.javaex.ex02;
+
+public class MainApp {
+	
+	int count =-1;
+	 AuthorDao authorDao = new AuthorDao();
+	 
+	 count = authorDao
+
+}
